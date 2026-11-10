@@ -1,0 +1,7 @@
+__pycache__/
+toolchain/downloads/
+toolchain/ghidra_*/
+toolchain/wineskin-runtime/Contents/
+runtime/
+*.lock
+*.lock~

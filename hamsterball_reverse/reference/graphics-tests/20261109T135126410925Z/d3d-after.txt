@@ -1,0 +1,2 @@
+reg: Unable to find the specified registry key
+wineserver: using server-side synchronization.

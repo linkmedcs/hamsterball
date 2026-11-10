@@ -1,0 +1,17 @@
+{
+  "timestamp_utc": "20261108T085038Z",
+  "action": "launch",
+  "command": [
+    "/Applications/魔兽争霸3（1.27A）.app/Contents/SharedSupport/wine/bin/wine64",
+    "hamsterball.exe"
+  ],
+  "cwd": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/runtime/game",
+  "wine_prefix": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/runtime/wine-prefix",
+  "log": "logs/wine-launch-20261108T085038Z.log",
+  "compatibility_status": "unverified",
+  "renderer": "not yet observed",
+  "pid": 61455,
+  "exit_code_after_5s": null,
+  "status": "process_alive_requires_visual_check",
+  "final_exit_code": 1
+}

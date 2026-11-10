@@ -1,0 +1,3188 @@
+{
+  "executable_sha256": "047d6613005513e1cafc607f83b1520973828e77babbdaa52846723060a94b58",
+  "status": "static_evidence_only",
+  "course": {
+    "resource": "Levels/Level1.MESHWORLD",
+    "public_race_key": "BEGINNERRACE",
+    "internal_board_name": "Board (Warm-Up)",
+    "constructor": "0x414240",
+    "vtable": "0x4f82d8",
+    "loader": "0x414310",
+    "strings": {
+      "0x50d62c": "Board (Warm-Up)",
+      "0x50d63c": "WARM-UP RACE",
+      "0x50d64c": "BEGINNERRACE",
+      "0x50d65c": "Hamster Nation",
+      "0x50d66c": "levels\\level1"
+    },
+    "race_values": {
+      "TIME": 60.0,
+      "PAR": 47.0,
+      "WEASEL": 6.6,
+      "BRONZE": 15.0,
+      "SILVER": 10.3,
+      "GOLD": 7.6
+    }
+  },
+  "misleading_internal_name": {
+    "constructor": "0x41dab0",
+    "vtable": "0x4f89d8",
+    "strings": {
+      "0x50e2a8": "Board (Beginner)",
+      "0x50e2bc": "BEGINNER RACE",
+      "0x50e2cc": "CASCADERACE",
+      "0x50e2d8": "Cascade Race",
+      "0x50e2e8": "levels\\levelcascade"
+    },
+    "conclusion": "Board (Beginner) selects CASCADERACE/levelcascade; do not use as first-course mapping"
+  },
+  "geometry": {
+    "vertex_count": 9161,
+    "triangle_count": 5485,
+    "cache_vertex_count": 5455,
+    "cache_triangle_count": 5485,
+    "bounds": [
+      -646.0,
+      -5413.0,
+      -2553.0,
+      2762.0,
+      324.0,
+      614.0
+    ]
+  },
+  "markers": [
+    {
+      "name": "START1-1",
+      "position": [
+        23.360000610351562,
+        40.110191345214844,
+        -13.354804992675781
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "FLAG04",
+      "position": [
+        1986.2835693359375,
+        -714.2884521484375,
+        -1570.31689453125
+      ],
+      "rotation": [
+        1.0149549467541874e-07,
+        -58.94325256347656,
+        3.298768902482152e-08
+      ],
+      "materials": [
+        {
+          "diffuse": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "flags": 0,
+          "textures": [
+            "BlackCheckerFlag.png"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FLAG07",
+      "position": [
+        2287.283203125,
+        -714.2884521484375,
+        -1587.916748046875
+      ],
+      "rotation": [
+        1.0149549467541874e-07,
+        -58.94325256347656,
+        3.298768902482152e-08
+      ],
+      "materials": [
+        {
+          "diffuse": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "flags": 0,
+          "textures": [
+            "BlackCheckerFlag.png"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        89.86804962158203,
+        -7.390299320220947,
+        -364.390869140625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        375.3395690917969,
+        -54.890262603759766,
+        -389.578369140625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        401.5594482421875,
+        -102.390380859375,
+        -767.9166870117188
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        399.77099609375,
+        -102.39018249511719,
+        -9.48885726928711
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        825.2838745117188,
+        -149.8903350830078,
+        -386.2891845703125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        1139.6417236328125,
+        -197.3896484375,
+        -318.4826965332031
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        1182.5299072265625,
+        -339.9186706542969,
+        -1029.807373046875
+      ],
+      "rotation": [
+        -0.0032511702738702297,
+        0.0,
+        0.021753644570708275
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        134.15652465820312,
+        40.11003494262695,
+        -28.84341049194336
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        1206.6292724609375,
+        -197.38978576660156,
+        -580.2169799804688
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "START2-1",
+      "position": [
+        -17.460163116455078,
+        40.110191345214844,
+        -13.354804992675781
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "START2-2",
+      "position": [
+        57.33351516723633,
+        40.110191345214844,
+        -13.354804992675781
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "FLAG02",
+      "position": [
+        1340.3316650390625,
+        -164.97283935546875,
+        -924.4569091796875
+      ],
+      "rotation": [
+        0.0,
+        -58.942867279052734,
+        -0.0
+      ],
+      "materials": [
+        {
+          "diffuse": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "flags": 0,
+          "textures": [
+            "BlackCheckerFlag.png"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FLAG06",
+      "position": [
+        1340.3316650390625,
+        -164.97283935546875,
+        -1183.0166015625
+      ],
+      "rotation": [
+        0.0,
+        -58.94325256347656,
+        -0.0
+      ],
+      "materials": [
+        {
+          "diffuse": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "flags": 0,
+          "textures": [
+            "BlackCheckerFlag.png"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        134.15652465820312,
+        40.11003494262695,
+        -104.65733337402344
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        134.15652465820312,
+        40.11003494262695,
+        42.531925201416016
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        89.86804962158203,
+        -7.390299320220947,
+        -429.353759765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        89.86804962158203,
+        -7.390299320220947,
+        -304.24334716796875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        302.2174377441406,
+        -54.890262603759766,
+        -484.71160888671875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        297.83319091796875,
+        -54.890262603759766,
+        -292.2247009277344
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        349.33221435546875,
+        -102.390380859375,
+        -682.6649780273438
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        364.52008056640625,
+        -102.39018249511719,
+        -106.99066162109375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        827.01904296875,
+        -149.8903350830078,
+        -197.3813934326172
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        825.2838745117188,
+        -149.8903350830078,
+        -578.2127075195312
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        1063.5029296875,
+        -197.3896484375,
+        -200.09307861328125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        1200.5836181640625,
+        -197.3896484375,
+        -200.09307861328125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        1071.072509765625,
+        -197.38978576660156,
+        -580.2169799804688
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "materials": []
+    },
+    {
+      "name": "SAFESPOT",
+      "position": [
+        1106.255126953125,
+        -339.9186706542969,
+        -1029.807373046875
+      ],
+      "rotation": [
+        -0.0032511702738702297,
+        0.0,
+        0.021753644570708275
+      ],
+      "materials": []
+    }
+  ],
+  "marker_counts": {
+    "START1-1": 1,
+    "FLAG04": 1,
+    "FLAG07": 1,
+    "SAFESPOT": 23,
+    "START2-1": 1,
+    "START2-2": 1,
+    "FLAG02": 1,
+    "FLAG06": 1
+  },
+  "curves": [
+    {
+      "name": "CameraLocus",
+      "points": [
+        [
+          1935.8839111328125,
+          418.1170654296875,
+          -1540.018798828125
+        ],
+        [
+          1468.52734375,
+          418.1170654296875,
+          -1148.34423828125
+        ],
+        [
+          779.0103759765625,
+          418.1170654296875,
+          -443.76318359375
+        ],
+        [
+          -21.5869140625,
+          418.1170654296875,
+          417.2708740234375
+        ]
+      ]
+    }
+  ],
+  "lights": [
+    {
+      "type": 0,
+      "values": [
+        350.67169189453125,
+        525.5850830078125,
+        76.98148345947266,
+        195.97622680664062,
+        419.27728271484375,
+        24.076717376708984,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "environment": [
+    0.658823549747467,
+    0.0,
+    0.6823529601097107,
+    0.4470590054988861,
+    0.4470590054988861,
+    0.4470590054988861
+  ],
+  "batches": [
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 20,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 15,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 3,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 53,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 14,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 8,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 5,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 22,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 8,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 5,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 5,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 206,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 5,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 6,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 9,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 3,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 6,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 244,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 24,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 524,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 12,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "T:ArrowCurveRight(NOCOLLIDE)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          0.5
+        ],
+        "flags": 0,
+        "textures": [
+          "ArrowCurve2.png"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 7,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 102,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 209,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 12,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 164,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "T:StartSpot(NOCOLLIDE)",
+      "triangle_count": 24,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": [
+          "Decal-Start.png"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 8,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 78,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 540,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 5,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "T:ArrowCurveRight(NOCOLLIDE)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          0.5
+        ],
+        "flags": 0,
+        "textures": [
+          "ArrowCurve2.png"
+        ]
+      }
+    },
+    {
+      "name": "T:StartSpot(NOCOLLIDE)",
+      "triangle_count": 8,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": [
+          "Decal-Start.png"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 42,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 11,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 346,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 7,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "T:ArrowCurveRight(NOCOLLIDE)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          0.5
+        ],
+        "flags": 0,
+        "textures": [
+          "ArrowCurve2.png"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "T:ArrowCurveRight(NOCOLLIDE)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          0.5
+        ],
+        "flags": 0,
+        "textures": [
+          "ArrowCurve2.png"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 112,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 3,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 342,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "T:ArrowCurveRight(NOCOLLIDE)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          0.5
+        ],
+        "flags": 0,
+        "textures": [
+          "ArrowCurve2.png"
+        ]
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 43,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 11,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 17,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 9,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 10,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 6,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 5,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 32,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 40,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 11,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 3,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 11,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 7,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 9,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 3,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 3,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 25,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 64,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 20,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 39,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 58,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 16,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 19,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 101,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 50,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 54,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 19,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 12,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 17,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 3,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 16,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 12,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 245,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 35,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 10,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "T:WarningDecalNOCOLLIDE)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          0.5
+        ],
+        "flags": 0,
+        "textures": [
+          "Decal-Warning.png"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 7,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "E:NODIZZY<TIME>200</TIME>",
+      "triangle_count": 32,
+      "material": {
+        "diffuse": [
+          0.5,
+          0.5,
+          0.5,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 9,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 6,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 58,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 32,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 37,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 25,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 10,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 16,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 6,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 5,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 10,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 60,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 31,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 37,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 216,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "T:GoalImage(NOCOLLIDE)",
+      "triangle_count": 8,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          0.75
+        ],
+        "flags": 0,
+        "textures": [
+          "goal.png"
+        ]
+      }
+    },
+    {
+      "name": "N:GOAL",
+      "triangle_count": 8,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "GreyOutlineChecker.png"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "T:GoalImage(NOCOLLIDE)",
+      "triangle_count": 6,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          0.75
+        ],
+        "flags": 0,
+        "textures": [
+          "goal.png"
+        ]
+      }
+    },
+    {
+      "name": "N:GOAL",
+      "triangle_count": 6,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "GreyOutlineChecker.png"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 3,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 8,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "T:GoalImage(NOCOLLIDE)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          0.75
+        ],
+        "flags": 0,
+        "textures": [
+          "goal.png"
+        ]
+      }
+    },
+    {
+      "name": "N:GOAL",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "GreyOutlineChecker.png"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 6,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 21,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 5,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 18,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 242,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 4,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 19,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "E:LIMIT",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5882353186607361,
+          0.5
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 110,
+      "material": {
+        "diffuse": [
+          0.7803922295570374,
+          0.32156863808631897,
+          0.7960785031318665,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    },
+    {
+      "name": "",
+      "triangle_count": 2,
+      "material": {
+        "diffuse": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "flags": 1,
+        "textures": [
+          "PinkChecker.bmp"
+        ]
+      }
+    },
+    {
+      "name": "S:Walls(NOSHADOW)",
+      "triangle_count": 1,
+      "material": {
+        "diffuse": [
+          0.988235354423523,
+          0.6313725709915161,
+          1.0,
+          1.0
+        ],
+        "flags": 0,
+        "textures": []
+      }
+    }
+  ],
+  "notes": [
+    "Resource markers/curves are parsed values, not verified gameplay state.",
+    "N:GOAL, E:LIMIT and E:NODIZZY require code interpretation.",
+    "No first-course dynamic object list is claimed complete before constructor/update review.",
+    "Static start marker is not a measured ball center or spawn state."
+  ]
+}

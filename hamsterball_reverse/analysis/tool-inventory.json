@@ -1,0 +1,78 @@
+{
+  "created_utc": "2026-11-08T16:08:01.390973+00:00",
+  "host": {
+    "system": "Darwin",
+    "machine": "arm64",
+    "mac_version": "15.7.3",
+    "python": "3.9.6"
+  },
+  "tools": {
+    "clang++": {
+      "path": "/usr/bin/clang++",
+      "exit_code": 0,
+      "output": "Apple clang version 17.0.0 (clang-1700.6.3.2)\nTarget: arm64-apple-darwin24.6.0\nThread model: posix\nInstalledDir: /Library/Developer/CommandLineTools/usr/bin"
+    },
+    "cmake": {
+      "path": "/opt/homebrew/bin/cmake",
+      "exit_code": 0,
+      "output": "cmake version 4.2.1\n\nCMake suite maintained and supported by Kitware (kitware.com/cmake)."
+    },
+    "ninja": null,
+    "objdump": {
+      "path": "/usr/bin/objdump",
+      "exit_code": 0,
+      "output": "Apple LLVM version 17.0.0\n  Optimized build.\n\n\n  Registered Targets:\n    aarch64    - AArch64 (little endian)\n    aarch64_32 - AArch64 (little endian ILP32)\n    aarch64_be - AArch64 (big endian)\n    arm        - ARM\n    arm64      - ARM64 (little endian)\n    arm64_32   - ARM64 (little endian ILP32)\n    armeb      - ARM (big endian)\n    thumb      - Thumb\n    thumbeb    - Thumb (big endian)\n    x86        - 32-bit X86: Pentium-Pro and above\n    x86-64     - 64-bit X86: EM64T and AMD64"
+    },
+    "python3": {
+      "path": "/usr/bin/python3",
+      "exit_code": 0,
+      "output": "Python 3.9.6"
+    }
+  },
+  "jdk": {
+    "path": "/opt/homebrew/opt/openjdk/libexec/openjdk.jdk/Contents/Home/bin/java",
+    "exit_code": 0,
+    "output": "openjdk version \"27.0.1.0.3\" 2026-10-24\nOpenJDK Runtime Environment Homebrew (build 27.0.1.0.3)\nOpenJDK 64-Bit Server VM Homebrew (build 27.0.1.0.3, mixed mode, sharing)"
+  },
+  "android_studio_jdk": {
+    "path": "/Applications/Android Studio.app/Contents/jbr/Contents/Home/bin/java",
+    "exit_code": 0,
+    "output": "openjdk version \"21.0.8\" 2025-07-15\nOpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)\nOpenJDK 64-Bit Server VM (build 21.0.8+-14196175-b1038.72, mixed mode)"
+  },
+  "android": {
+    "sdk": "/Users/ghx/Library/Android/sdk",
+    "platforms": [
+      "android-36"
+    ],
+    "build_tools": [
+      "36.1.0"
+    ],
+    "ndk": [],
+    "cmake": [],
+    "adb": {
+      "path": "/Users/ghx/Library/Android/sdk/platform-tools/adb",
+      "exit_code": 0,
+      "output": "Android Debug Bridge version 1.0.41\nVersion 36.0.0-13206524\nInstalled as /Users/ghx/Library/Android/sdk/platform-tools/adb\nRunning on Darwin 24.6.0 (arm64)"
+    }
+  },
+  "ghidra": [
+    "toolchain/ghidra_12.2_PUBLIC/support/analyzeHeadless"
+  ],
+  "windows_runtime": {
+    "discovery": {
+      "executable": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/toolchain/wineskin-runtime/Contents/SharedSupport/wine/bin/wine64",
+      "wineserver": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/toolchain/wineskin-runtime/Contents/SharedSupport/wine/bin/wineserver",
+      "frameworks": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/toolchain/wineskin-runtime/Contents/Frameworks",
+      "source": "workspace"
+    },
+    "note": "Candidate only: actual game launch must be recorded separately; use a new WINEPREFIX.",
+    "path_tools": {
+      "wine": null,
+      "wine64": null,
+      "prlctl": null,
+      "VBoxManage": null,
+      "qemu-system-x86_64": null
+    },
+    "applications": []
+  }
+}

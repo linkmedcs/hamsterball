@@ -1,0 +1,19 @@
+
+HKEY_CURRENT_USER\Software\Raptisoft\Hamsterball
+    ColorMode    REG_BINARY    01
+    Fullscreen    REG_BINARY    00
+    KeyAction1    REG_DWORD    0x1c
+    KeyAction2    REG_DWORD    0x39
+    KeyDown    REG_DWORD    0xd0
+    KeyLeft    REG_DWORD    0xcb
+    KeyRight    REG_DWORD    0xcd
+    KeyUp    REG_DWORD    0xc8
+    Music Volume    REG_BINARY    CDCC4C3F
+    PlayCount    REG_DWORD    0x13
+    SafeMode    REG_BINARY    00
+    Screen Height    REG_DWORD    0x300
+    Screen Width    REG_DWORD    0x400
+    Sound Volume    REG_BINARY    0000803F
+    Texture Quality    REG_BINARY    0000003F
+
+wineserver: using server-side synchronization.

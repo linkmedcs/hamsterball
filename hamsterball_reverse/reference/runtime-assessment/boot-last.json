@@ -1,0 +1,16 @@
+{
+  "timestamp_utc": "20261108T083201Z",
+  "action": "boot",
+  "command": [
+    "/Applications/魔兽争霸3（1.27A）.app/Contents/SharedSupport/wine/bin/wine64",
+    "wineboot",
+    "-u"
+  ],
+  "cwd": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/runtime/game",
+  "wine_prefix": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/runtime/wine-prefix",
+  "log": "logs/wine-boot-20261108T083201Z.log",
+  "compatibility_status": "unverified",
+  "renderer": "not yet observed",
+  "pid": 54553,
+  "exit_code": 0
+}

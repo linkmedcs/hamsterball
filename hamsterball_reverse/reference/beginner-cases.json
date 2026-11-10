@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "status": "planned_not_captured",
+  "resource": "Levels/Level1.MESHWORLD",
+  "race_key": "BEGINNERRACE",
+  "repeats_per_case": 3,
+  "input_schedule_status": "Must be defined against observed original input and logic time; no assumed 120 Hz",
+  "cases": [
+    {"id": "idle", "purpose": "开局不输入，确认初始状态、重力、镜头、计时与重复性"},
+    {"id": "accelerate-release", "purpose": "单方向加速后松手，记录速度与滑行"},
+    {"id": "turn", "purpose": "方向切换与斜向输入，记录归一化与轨迹"},
+    {"id": "wall-contact", "purpose": "正向和斜向撞墙，记录接触及滑动／反弹"},
+    {"id": "edge-fall", "purpose": "驶离边缘，记录跌落与碎球触发"},
+    {"id": "respawn", "purpose": "记录复位位置、速度、计时与相机重置"},
+    {"id": "pause-resume", "purpose": "确认暂停期间物理、赛事计时与声音行为"},
+    {"id": "goal", "purpose": "通关路线与终点事件、赛事用时"}
+  ]
+}

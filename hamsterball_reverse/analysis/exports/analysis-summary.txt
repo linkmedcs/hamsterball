@@ -1,0 +1,7 @@
+executable_sha256=047d6613005513e1cafc607f83b1520973828e77babbdaa52846723060a94b58
+language=x86:LE:32:default
+compiler_spec=windows
+image_base=00400000
+analyzer_function_count=3275
+exported_function_count=44
+Automatic boundaries, signatures and inferred types require manual validation.

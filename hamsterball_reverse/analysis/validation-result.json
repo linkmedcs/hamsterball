@@ -1,0 +1,21 @@
+{
+  "created_utc": "2026-11-09T13:57:35.162116+00:00",
+  "integrity_status": "passed",
+  "stage1_complete": false,
+  "original_runtime_reference_verified": false,
+  "checks": [
+    "546 original game files and inherited evidence match frozen manifest",
+    "135 exported files match export manifest",
+    "45 evidence seeds resolved, decompiler outputs available (not semantically validated)",
+    "3275 analyzer function records consistent with summary",
+    "Level1/Cascade mapping evidence and Level1 world/cache triangle counts consistent",
+    "Locally built ARM64 decompiler matches recorded binary hash",
+    "Workspace Python scripts compile",
+    "Uncaptured reference session does not claim gameplay evidence"
+  ],
+  "limitations": [
+    "No original first-course gameplay capture or deterministic replay.",
+    "Decompiled types, inferred ABIs and gameplay semantics remain provisional.",
+    "No Android NDK installed; no original C++ gameplay core built."
+  ]
+}

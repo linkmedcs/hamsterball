@@ -1,0 +1,77 @@
+[
+  {
+    "course": "level1",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:38:23.826  5384  5411 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:38:26.222  5384  5411 I Hamsterwheel: Course loaded: Beginner, 10 material groups, 30 markers\n11-08 01:38:26.226  5384  5411 I Hamsterwheel: STATE x=23.36 y=66.11019 z=13.354805 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "levelcascade",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:38:30.500  5455  5480 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:38:32.950  5455  5480 I Hamsterwheel: Course loaded: Cascade, 26 material groups, 63 markers\n11-08 01:38:32.950  5455  5480 I Hamsterwheel: STATE x=89.7919 y=429.89545 z=-34.80941 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "level2",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:38:35.966  5520  5537 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:38:39.102  5520  5537 I Hamsterwheel: Course loaded: Intermediate, 27 material groups, 68 markers\n11-08 01:38:39.102  5520  5537 I Hamsterwheel: STATE x=683.2388 y=441.5166 z=1001.8994 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "level3",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:38:43.253  5586  5622 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:38:47.350  5586  5622 I Hamsterwheel: Course loaded: Dizzy, 24 material groups, 144 markers\n11-08 01:38:47.350  5586  5622 I Hamsterwheel: STATE x=191.61774 y=-59.40503 z=-1359.0128 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "level4",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:38:51.914  5676  5700 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:38:54.549  5676  5700 I Hamsterwheel: Course loaded: Tower, 31 material groups, 132 markers\n11-08 01:38:54.551  5676  5700 I Hamsterwheel: STATE x=-6.9697576 y=168.81268 z=-552.8168 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "levelup",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:38:59.488  5751  5775 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:39:04.346  5751  5775 I Hamsterwheel: Course loaded: Up, 21 material groups, 85 markers\n11-08 01:39:04.350  5751  5775 I Hamsterwheel: STATE x=29.520508 y=-4158.261 z=28.06726 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "leveldark",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:39:10.218  5840  5862 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:39:12.296  5840  5862 I Hamsterwheel: Course loaded: Neon, 45 material groups, 147 markers\n11-08 01:39:12.296  5840  5862 I Hamsterwheel: STATE x=319.64194 y=-1041.5206 z=694.9879 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "level5",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:39:16.921  5914  5938 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:39:20.794  5914  5938 I Hamsterwheel: Course loaded: Expert, 40 material groups, 128 markers\n11-08 01:39:20.794  5914  5938 I Hamsterwheel: STATE x=321.36795 y=-265.7642 z=351.359 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "level6",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:39:26.706  5996  6017 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:39:33.473  5996  6017 I Hamsterwheel: Course loaded: Odd, 58 material groups, 170 markers\n11-08 01:39:33.483  5996  6017 I Hamsterwheel: STATE x=-874.50433 y=-30.273037 z=1230.2592 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "levelglass",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:39:43.405  6170  6186 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:39:45.818  6170  6186 I Hamsterwheel: Course loaded: Glass, 28 material groups, 87 markers\n11-08 01:39:45.818  6170  6186 I Hamsterwheel: STATE x=-135.31203 y=-480.9733 z=-662.73395 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "level9",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:39:56.482  6307  6322 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:39:58.787  6307  6322 I Hamsterwheel: Course loaded: Sky, 21 material groups, 157 markers\n11-08 01:39:58.789  6307  6322 I Hamsterwheel: STATE x=0.0 y=0.0 z=0.0 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "level10",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:40:04.730  6367  6389 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:40:11.777  6367  6389 I Hamsterwheel: Course loaded: Master, 35 material groups, 224 markers\n11-08 01:40:11.780  6367  6389 I Hamsterwheel: STATE x=177.09366 y=-213.75739 z=162.66098 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "levelimpossible",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:40:16.030  6466  6488 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:40:18.770  6466  6488 I Hamsterwheel: Course loaded: Impossible, 30 material groups, 107 markers\n11-08 01:40:18.772  6466  6488 I Hamsterwheel: STATE x=-137.836 y=180.69893 z=-54.338257 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "level8",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:41:39.988  6729  6754 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:41:44.179  6729  6754 I Hamsterwheel: Course loaded: Toob, 50 material groups, 105 markers\n11-08 01:41:44.179  6729  6754 I Hamsterwheel: STATE x=213.62723 y=-132.43347 z=129.89304 grounded=false falls=0 input=0.0,0.0"
+  },
+  {
+    "course": "level7",
+    "loaded": true,
+    "log": "--------- beginning of main\n11-08 01:41:47.496  6809  6827 I Hamsterwheel: OpenGL ready: Android Emulator OpenGL ES Translator (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (LLVM 10.0.0) (0x0000C0DE)), SwiftShader driver-5.0.0))\n11-08 01:41:50.223  6809  6827 I Hamsterwheel: Course loaded: Wobbly, 24 material groups, 82 markers\n11-08 01:41:50.223  6809  6827 I Hamsterwheel: STATE x=23.383528 y=25.999983 z=1.3556564 grounded=false falls=0 input=0.0,0.0"
+  }
+]

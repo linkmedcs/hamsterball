@@ -1,0 +1,1283 @@
+[
+  {
+    "path": "Levels/Arena-Beginner.MESHWORLD",
+    "kind": "world",
+    "vertices": 4214,
+    "markers": 17
+  },
+  {
+    "path": "Levels/Arena-Dizzy.MESHWORLD",
+    "kind": "world",
+    "vertices": 900,
+    "markers": 17
+  },
+  {
+    "path": "Levels/Arena-Expert.MESHWORLD",
+    "kind": "world",
+    "vertices": 1121,
+    "markers": 19
+  },
+  {
+    "path": "Levels/Arena-Glass.MESHWORLD",
+    "kind": "world",
+    "vertices": 2752,
+    "markers": 16
+  },
+  {
+    "path": "Levels/Arena-Impossible.MESHWORLD",
+    "kind": "world",
+    "vertices": 788,
+    "markers": 18
+  },
+  {
+    "path": "Levels/Arena-Intermediate.MESHWORLD",
+    "kind": "world",
+    "vertices": 470,
+    "markers": 26
+  },
+  {
+    "path": "Levels/Arena-Master.MESHWORLD",
+    "kind": "world",
+    "vertices": 2503,
+    "markers": 16
+  },
+  {
+    "path": "Levels/Arena-Neon.MESHWORLD",
+    "kind": "world",
+    "vertices": 1036,
+    "markers": 17
+  },
+  {
+    "path": "Levels/Arena-Odd.MESHWORLD",
+    "kind": "world",
+    "vertices": 3342,
+    "markers": 16
+  },
+  {
+    "path": "Levels/Arena-Sky.MESHWORLD",
+    "kind": "world",
+    "vertices": 424,
+    "markers": 87
+  },
+  {
+    "path": "Levels/Arena-SpawnPlatform.MESHWORLD",
+    "kind": "world",
+    "vertices": 34,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Arena-Stands.MESHWORLD",
+    "kind": "world",
+    "vertices": 260,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Arena-Toob.MESHWORLD",
+    "kind": "world",
+    "vertices": 8442,
+    "markers": 16
+  },
+  {
+    "path": "Levels/Arena-Tower.MESHWORLD",
+    "kind": "world",
+    "vertices": 1622,
+    "markers": 23
+  },
+  {
+    "path": "Levels/Arena-Up.MESHWORLD",
+    "kind": "world",
+    "vertices": 1708,
+    "markers": 15
+  },
+  {
+    "path": "Levels/Arena-WarmUp.MESHWORLD",
+    "kind": "world",
+    "vertices": 2320,
+    "markers": 16
+  },
+  {
+    "path": "Levels/Arena-Wobbly.MESHWORLD",
+    "kind": "world",
+    "vertices": 40,
+    "markers": 17
+  },
+  {
+    "path": "Levels/Level1.MESHWORLD",
+    "kind": "world",
+    "vertices": 9161,
+    "markers": 30
+  },
+  {
+    "path": "Levels/Level10-2PBridge.MESHWORLD",
+    "kind": "world",
+    "vertices": 36,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level10-2PBridge.cached",
+    "kind": "cache",
+    "vertices": 24,
+    "triangles": 12
+  },
+  {
+    "path": "Levels/Level10-Bridge1.MESHWORLD",
+    "kind": "world",
+    "vertices": 146,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level10-Bridge1.cached",
+    "kind": "cache",
+    "vertices": 112,
+    "triangles": 62
+  },
+  {
+    "path": "Levels/Level10-Bridge2.MESHWORLD",
+    "kind": "world",
+    "vertices": 162,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level10-Bridge2.cached",
+    "kind": "cache",
+    "vertices": 118,
+    "triangles": 72
+  },
+  {
+    "path": "Levels/Level10.MESHWORLD",
+    "kind": "world",
+    "vertices": 27548,
+    "markers": 224
+  },
+  {
+    "path": "Levels/Level2-Bridge.MESHWORLD",
+    "kind": "world",
+    "vertices": 1054,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level2-Bridge.cached",
+    "kind": "cache",
+    "vertices": 576,
+    "triangles": 460
+  },
+  {
+    "path": "Levels/Level2.MESHWORLD",
+    "kind": "world",
+    "vertices": 22770,
+    "markers": 68
+  },
+  {
+    "path": "Levels/Level3-Gluebie.MESHWORLD",
+    "kind": "world",
+    "vertices": 128,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level3-Gluebie.cached",
+    "kind": "cache",
+    "vertices": 48,
+    "triangles": 92
+  },
+  {
+    "path": "Levels/Level3-Swirl.MESHWORLD",
+    "kind": "world",
+    "vertices": 288,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level3-Swirl.cached",
+    "kind": "cache",
+    "vertices": 217,
+    "triangles": 220
+  },
+  {
+    "path": "Levels/Level3-Tipper.MESHWORLD",
+    "kind": "world",
+    "vertices": 68,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level3-Tipper.cached",
+    "kind": "cache",
+    "vertices": 50,
+    "triangles": 40
+  },
+  {
+    "path": "Levels/Level3-WaterWheel.MESHWORLD",
+    "kind": "world",
+    "vertices": 2028,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level3-WaterWheel.cached",
+    "kind": "cache",
+    "vertices": 1353,
+    "triangles": 960
+  },
+  {
+    "path": "Levels/Level3.MESHWORLD",
+    "kind": "world",
+    "vertices": 28870,
+    "markers": 144
+  },
+  {
+    "path": "Levels/Level4-Catapult.MESHWORLD",
+    "kind": "world",
+    "vertices": 422,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level4-Catapult.cached",
+    "kind": "cache",
+    "vertices": 203,
+    "triangles": 270
+  },
+  {
+    "path": "Levels/Level4-Drawbridge.MESHWORLD",
+    "kind": "world",
+    "vertices": 108,
+    "markers": 4
+  },
+  {
+    "path": "Levels/Level4-Drawbridge.cached",
+    "kind": "cache",
+    "vertices": 72,
+    "triangles": 36
+  },
+  {
+    "path": "Levels/Level4-Mace.MESHWORLD",
+    "kind": "world",
+    "vertices": 1422,
+    "markers": 1
+  },
+  {
+    "path": "Levels/Level4-Mace.cached",
+    "kind": "cache",
+    "vertices": 967,
+    "triangles": 686
+  },
+  {
+    "path": "Levels/Level4-Trapdoor1.MESHWORLD",
+    "kind": "world",
+    "vertices": 46,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level4-Trapdoor1.cached",
+    "kind": "cache",
+    "vertices": 32,
+    "triangles": 18
+  },
+  {
+    "path": "Levels/Level4-Trapdoor2.MESHWORLD",
+    "kind": "world",
+    "vertices": 46,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level4-Trapdoor2.cached",
+    "kind": "cache",
+    "vertices": 32,
+    "triangles": 18
+  },
+  {
+    "path": "Levels/Level4-Turret.MESHWORLD",
+    "kind": "world",
+    "vertices": 386,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level4-Turret.cached",
+    "kind": "cache",
+    "vertices": 248,
+    "triangles": 182
+  },
+  {
+    "path": "Levels/Level4-Windmill.MESHWORLD",
+    "kind": "world",
+    "vertices": 514,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level4-Windmill.cached",
+    "kind": "cache",
+    "vertices": 376,
+    "triangles": 268
+  },
+  {
+    "path": "Levels/Level4.MESHWORLD",
+    "kind": "world",
+    "vertices": 24356,
+    "markers": 132
+  },
+  {
+    "path": "Levels/Level5-Bonk.MESHWORLD",
+    "kind": "world",
+    "vertices": 972,
+    "markers": 1
+  },
+  {
+    "path": "Levels/Level5-Bridge.MESHWORLD",
+    "kind": "world",
+    "vertices": 36,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level5-Bridge.cached",
+    "kind": "cache",
+    "vertices": 24,
+    "triangles": 12
+  },
+  {
+    "path": "Levels/Level5.MESHWORLD",
+    "kind": "world",
+    "vertices": 27277,
+    "markers": 128
+  },
+  {
+    "path": "Levels/Level6-Lifter.MESHWORLD",
+    "kind": "world",
+    "vertices": 234,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level6-Lifter.cached",
+    "kind": "cache",
+    "vertices": 135,
+    "triangles": 160
+  },
+  {
+    "path": "Levels/Level6.MESHWORLD",
+    "kind": "world",
+    "vertices": 20614,
+    "markers": 170
+  },
+  {
+    "path": "Levels/Level7-Wavy1.MESHWORLD",
+    "kind": "world",
+    "vertices": 342,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level7-Wavy1.cached",
+    "kind": "cache",
+    "vertices": 174,
+    "triangles": 168
+  },
+  {
+    "path": "Levels/Level7-Wobbly1.MESHWORLD",
+    "kind": "world",
+    "vertices": 62,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level7-Wobbly1.cached",
+    "kind": "cache",
+    "vertices": 42,
+    "triangles": 22
+  },
+  {
+    "path": "Levels/Level7-Wobbly2.MESHWORLD",
+    "kind": "world",
+    "vertices": 134,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level7-Wobbly2.cached",
+    "kind": "cache",
+    "vertices": 99,
+    "triangles": 56
+  },
+  {
+    "path": "Levels/Level7-Wobbly3.MESHWORLD",
+    "kind": "world",
+    "vertices": 273,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level7-Wobbly3.cached",
+    "kind": "cache",
+    "vertices": 195,
+    "triangles": 147
+  },
+  {
+    "path": "Levels/Level7-Wobbly4.MESHWORLD",
+    "kind": "world",
+    "vertices": 58,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level7-Wobbly4.cached",
+    "kind": "cache",
+    "vertices": 40,
+    "triangles": 20
+  },
+  {
+    "path": "Levels/Level7-Wobbly5.MESHWORLD",
+    "kind": "world",
+    "vertices": 58,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level7-Wobbly5.cached",
+    "kind": "cache",
+    "vertices": 40,
+    "triangles": 20
+  },
+  {
+    "path": "Levels/Level7-Wobbly6.MESHWORLD",
+    "kind": "world",
+    "vertices": 888,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level7-Wobbly6.cached",
+    "kind": "cache",
+    "vertices": 500,
+    "triangles": 458
+  },
+  {
+    "path": "Levels/Level7-Wobbly7.MESHWORLD",
+    "kind": "world",
+    "vertices": 896,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level7-Wobbly7.cached",
+    "kind": "cache",
+    "vertices": 513,
+    "triangles": 540
+  },
+  {
+    "path": "Levels/Level7-Wobbly8.MESHWORLD",
+    "kind": "world",
+    "vertices": 1914,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level7.MESHWORLD",
+    "kind": "world",
+    "vertices": 21997,
+    "markers": 82
+  },
+  {
+    "path": "Levels/Level8-BlockDawg1.MESHWORLD",
+    "kind": "world",
+    "vertices": 60,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level8-BlockDawg2.MESHWORLD",
+    "kind": "world",
+    "vertices": 82,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level8-Blockdawg1.cached",
+    "kind": "cache",
+    "vertices": 48,
+    "triangles": 20
+  },
+  {
+    "path": "Levels/Level8-Blockdawg2.cached",
+    "kind": "cache",
+    "vertices": 52,
+    "triangles": 32
+  },
+  {
+    "path": "Levels/Level8-Fallout.MESHWORLD",
+    "kind": "world",
+    "vertices": 134,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level8-Fallout.cached",
+    "kind": "cache",
+    "vertices": 78,
+    "triangles": 74
+  },
+  {
+    "path": "Levels/Level8-Saw.MESHWORLD",
+    "kind": "world",
+    "vertices": 396,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level8-Saw.cached",
+    "kind": "cache",
+    "vertices": 230,
+    "triangles": 184
+  },
+  {
+    "path": "Levels/Level8-Spinny.MESHWORLD",
+    "kind": "world",
+    "vertices": 2208,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level8-Spinny.cached",
+    "kind": "cache",
+    "vertices": 1405,
+    "triangles": 1162
+  },
+  {
+    "path": "Levels/Level8.MESHWORLD",
+    "kind": "world",
+    "vertices": 29587,
+    "markers": 105
+  },
+  {
+    "path": "Levels/Level9-PopCylinder1.MESHWORLD",
+    "kind": "world",
+    "vertices": 110,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level9-PopCylinder2.MESHWORLD",
+    "kind": "world",
+    "vertices": 110,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level9-TrapDoor.MESHWORLD",
+    "kind": "world",
+    "vertices": 36,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Level9.MESHWORLD",
+    "kind": "world",
+    "vertices": 9774,
+    "markers": 157
+  },
+  {
+    "path": "Levels/LevelCascade.MESHWORLD",
+    "kind": "world",
+    "vertices": 6473,
+    "markers": 63
+  },
+  {
+    "path": "Levels/LevelDark-DFloor1.MESHWORLD",
+    "kind": "world",
+    "vertices": 44,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelDark-DFloor1.cached",
+    "kind": "cache",
+    "vertices": 34,
+    "triangles": 16
+  },
+  {
+    "path": "Levels/LevelDark-DFloor2.MESHWORLD",
+    "kind": "world",
+    "vertices": 36,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelDark-DFloor2.cached",
+    "kind": "cache",
+    "vertices": 24,
+    "triangles": 12
+  },
+  {
+    "path": "Levels/LevelDark-DFloor3.MESHWORLD",
+    "kind": "world",
+    "vertices": 348,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelDark-DFloor3.cached",
+    "kind": "cache",
+    "vertices": 324,
+    "triangles": 116
+  },
+  {
+    "path": "Levels/LevelDark-DFloor4.MESHWORLD",
+    "kind": "world",
+    "vertices": 1576,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelDark-DFloor4.cached",
+    "kind": "cache",
+    "vertices": 1481,
+    "triangles": 538
+  },
+  {
+    "path": "Levels/LevelDark-FlickRing.MESHWORLD",
+    "kind": "world",
+    "vertices": 576,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelDark-NeonPlatform.MESHWORLD",
+    "kind": "world",
+    "vertices": 76,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelDark-NeonPlatform.cached",
+    "kind": "cache",
+    "vertices": 50,
+    "triangles": 40
+  },
+  {
+    "path": "Levels/LevelDark-Trode.MESHWORLD",
+    "kind": "world",
+    "vertices": 62,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelDark-Trode.cached",
+    "kind": "cache",
+    "vertices": 28,
+    "triangles": 40
+  },
+  {
+    "path": "Levels/LevelDark.MESHWORLD",
+    "kind": "world",
+    "vertices": 33203,
+    "markers": 147
+  },
+  {
+    "path": "Levels/LevelGlass.MESHWORLD",
+    "kind": "world",
+    "vertices": 18980,
+    "markers": 87
+  },
+  {
+    "path": "Levels/LevelImpossible-BigGear.MESHWORLD",
+    "kind": "world",
+    "vertices": 510,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelImpossible-BigGear.cached",
+    "kind": "cache",
+    "vertices": 389,
+    "triangles": 192
+  },
+  {
+    "path": "Levels/LevelImpossible-Gear.MESHWORLD",
+    "kind": "world",
+    "vertices": 510,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelImpossible-Gear.cached",
+    "kind": "cache",
+    "vertices": 389,
+    "triangles": 192
+  },
+  {
+    "path": "Levels/LevelImpossible-Looper.MESHWORLD",
+    "kind": "world",
+    "vertices": 530,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelImpossible-Looper.cached",
+    "kind": "cache",
+    "vertices": 388,
+    "triangles": 312
+  },
+  {
+    "path": "Levels/LevelImpossible-Pendulum.MESHWORLD",
+    "kind": "world",
+    "vertices": 142,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelImpossible-Pendulum.cached",
+    "kind": "cache",
+    "vertices": 106,
+    "triangles": 72
+  },
+  {
+    "path": "Levels/LevelImpossible-Rotator.MESHWORLD",
+    "kind": "world",
+    "vertices": 402,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelImpossible-Rotator.cached",
+    "kind": "cache",
+    "vertices": 216,
+    "triangles": 228
+  },
+  {
+    "path": "Levels/LevelImpossible.MESHWORLD",
+    "kind": "world",
+    "vertices": 27341,
+    "markers": 107
+  },
+  {
+    "path": "Levels/LevelUp-Button.MESHWORLD",
+    "kind": "world",
+    "vertices": 234,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelUp-Lifter.MESHWORLD",
+    "kind": "world",
+    "vertices": 226,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelUp-SpeedCylinder.MESHWORLD",
+    "kind": "world",
+    "vertices": 140,
+    "markers": 0
+  },
+  {
+    "path": "Levels/LevelUp.MESHWORLD",
+    "kind": "world",
+    "vertices": 14562,
+    "markers": 85
+  },
+  {
+    "path": "Levels/MouseTrap.MESHWORLD",
+    "kind": "world",
+    "vertices": 440,
+    "markers": 0
+  },
+  {
+    "path": "Levels/MouseTrap.cached",
+    "kind": "cache",
+    "vertices": 279,
+    "triangles": 202
+  },
+  {
+    "path": "Levels/PopupSign.MESHWORLD",
+    "kind": "world",
+    "vertices": 214,
+    "markers": 0
+  },
+  {
+    "path": "Levels/PopupSign.cached",
+    "kind": "cache",
+    "vertices": 120,
+    "triangles": 108
+  },
+  {
+    "path": "Levels/Secret-Unlock.MESHWORLD",
+    "kind": "world",
+    "vertices": 92,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Secret-Unlock.cached",
+    "kind": "cache",
+    "vertices": 64,
+    "triangles": 34
+  },
+  {
+    "path": "Levels/Secret.MESHWORLD",
+    "kind": "world",
+    "vertices": 36,
+    "markers": 0
+  },
+  {
+    "path": "Levels/Secret.cached",
+    "kind": "cache",
+    "vertices": 24,
+    "triangles": 12
+  },
+  {
+    "path": "Levels/arena-intermediate.cached",
+    "kind": "cache",
+    "vertices": 328,
+    "triangles": 184
+  },
+  {
+    "path": "Levels/arena-spawnplatform.cached",
+    "kind": "cache",
+    "vertices": 24,
+    "triangles": 12
+  },
+  {
+    "path": "Levels/arena-stands.cached",
+    "kind": "cache",
+    "vertices": 252,
+    "triangles": 242
+  },
+  {
+    "path": "Levels/level1.cached",
+    "kind": "cache",
+    "vertices": 5455,
+    "triangles": 5485
+  },
+  {
+    "path": "Levels/level10.cached",
+    "kind": "cache",
+    "vertices": 16972,
+    "triangles": 16180
+  },
+  {
+    "path": "Levels/level2.cached",
+    "kind": "cache",
+    "vertices": 12736,
+    "triangles": 12714
+  },
+  {
+    "path": "Levels/level3.cached",
+    "kind": "cache",
+    "vertices": 16646,
+    "triangles": 15956
+  },
+  {
+    "path": "Levels/level4.cached",
+    "kind": "cache",
+    "vertices": 15461,
+    "triangles": 11810
+  },
+  {
+    "path": "Levels/level5-bonk.cached",
+    "kind": "cache",
+    "vertices": 589,
+    "triangles": 504
+  },
+  {
+    "path": "Levels/level5.cached",
+    "kind": "cache",
+    "vertices": 14792,
+    "triangles": 14737
+  },
+  {
+    "path": "Levels/level6.cached",
+    "kind": "cache",
+    "vertices": 12234,
+    "triangles": 10628
+  },
+  {
+    "path": "Levels/level7.cached",
+    "kind": "cache",
+    "vertices": 12917,
+    "triangles": 12287
+  },
+  {
+    "path": "Levels/level8.cached",
+    "kind": "cache",
+    "vertices": 16604,
+    "triangles": 17497
+  },
+  {
+    "path": "Levels/level9-popcylinder1.cached",
+    "kind": "cache",
+    "vertices": 78,
+    "triangles": 72
+  },
+  {
+    "path": "Levels/level9-popcylinder2.cached",
+    "kind": "cache",
+    "vertices": 78,
+    "triangles": 72
+  },
+  {
+    "path": "Levels/level9-trapdoor.cached",
+    "kind": "cache",
+    "vertices": 24,
+    "triangles": 12
+  },
+  {
+    "path": "Levels/level9.cached",
+    "kind": "cache",
+    "vertices": 6696,
+    "triangles": 4624
+  },
+  {
+    "path": "Levels/levelcascade.cached",
+    "kind": "cache",
+    "vertices": 4550,
+    "triangles": 3175
+  },
+  {
+    "path": "Levels/leveldark.cached",
+    "kind": "cache",
+    "vertices": 19660,
+    "triangles": 17849
+  },
+  {
+    "path": "Levels/levelglass.cached",
+    "kind": "cache",
+    "vertices": 11430,
+    "triangles": 9836
+  },
+  {
+    "path": "Levels/levelimpossible.cached",
+    "kind": "cache",
+    "vertices": 15130,
+    "triangles": 16619
+  },
+  {
+    "path": "Levels/levelup-button.cached",
+    "kind": "cache",
+    "vertices": 201,
+    "triangles": 104
+  },
+  {
+    "path": "Levels/levelup-lifter.cached",
+    "kind": "cache",
+    "vertices": 153,
+    "triangles": 94
+  },
+  {
+    "path": "Levels/levelup-speedcylinder.cached",
+    "kind": "cache",
+    "vertices": 108,
+    "triangles": 56
+  },
+  {
+    "path": "Levels/levelup.cached",
+    "kind": "cache",
+    "vertices": 8463,
+    "triangles": 8080
+  },
+  {
+    "path": "Meshes/8Ball.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/8Ball.cached",
+    "kind": "cache",
+    "vertices": 87,
+    "triangles": 146
+  },
+  {
+    "path": "Meshes/Bell.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/Bell.cached",
+    "kind": "cache",
+    "vertices": 162,
+    "triangles": 248
+  },
+  {
+    "path": "Meshes/Chomper.MESH",
+    "kind": "mesh",
+    "parts": 2
+  },
+  {
+    "path": "Meshes/Chomper.cached",
+    "kind": "cache",
+    "vertices": 366,
+    "triangles": 539
+  },
+  {
+    "path": "Meshes/DawgShadow.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/DawgShoe.MESH",
+    "kind": "mesh",
+    "parts": 3
+  },
+  {
+    "path": "Meshes/DawgShoe2.MESH",
+    "kind": "mesh",
+    "parts": 3
+  },
+  {
+    "path": "Meshes/Dizzy.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/Dizzy.cached",
+    "kind": "cache",
+    "vertices": 4,
+    "triangles": 2
+  },
+  {
+    "path": "Meshes/Eye.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/FanBody.MESH",
+    "kind": "mesh",
+    "parts": 2
+  },
+  {
+    "path": "Meshes/Fanblades.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/FunBall.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/FunBall.cached",
+    "kind": "cache",
+    "vertices": 87,
+    "triangles": 146
+  },
+  {
+    "path": "Meshes/GlassBonus-Smashed.MESH",
+    "kind": "mesh",
+    "parts": 3
+  },
+  {
+    "path": "Meshes/GlassBonus-Smashed.cached",
+    "kind": "cache",
+    "vertices": 182,
+    "triangles": 76
+  },
+  {
+    "path": "Meshes/GlassBonus.MESH",
+    "kind": "mesh",
+    "parts": 2
+  },
+  {
+    "path": "Meshes/GlassBonus.cached",
+    "kind": "cache",
+    "vertices": 20,
+    "triangles": 10
+  },
+  {
+    "path": "Meshes/HammyJudge.MESH",
+    "kind": "mesh",
+    "parts": 4
+  },
+  {
+    "path": "Meshes/Hamster-Trot1.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/Hamster-Trot2.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/Hamster-Trot3.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/Hamster-Waiting.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/Hamster-Waiting.cached",
+    "kind": "cache",
+    "vertices": 280,
+    "triangles": 314
+  },
+  {
+    "path": "Meshes/Hamster-trot1.cached",
+    "kind": "cache",
+    "vertices": 281,
+    "triangles": 314
+  },
+  {
+    "path": "Meshes/Hamster-trot2.cached",
+    "kind": "cache",
+    "vertices": 277,
+    "triangles": 314
+  },
+  {
+    "path": "Meshes/Hamster-trot3.cached",
+    "kind": "cache",
+    "vertices": 280,
+    "triangles": 314
+  },
+  {
+    "path": "Meshes/Hamster.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/MagnifyingGlass.MESH",
+    "kind": "mesh",
+    "parts": 5
+  },
+  {
+    "path": "Meshes/Mouse.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/MouseTrapShadow.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/RBGlare.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/RBGlare.cached",
+    "kind": "cache",
+    "vertices": 42,
+    "triangles": 71
+  },
+  {
+    "path": "Meshes/SawFace.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/SawFace2.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/Sawblade.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/SkyPillar.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/Sphere+Tar.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/Sphere+Tar.cached",
+    "kind": "cache",
+    "vertices": 43,
+    "triangles": 66
+  },
+  {
+    "path": "Meshes/Sphere.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/Sphere.cached",
+    "kind": "cache",
+    "vertices": 118,
+    "triangles": 188
+  },
+  {
+    "path": "Meshes/SphereBreak1.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/SphereBreak1.cached",
+    "kind": "cache",
+    "vertices": 86,
+    "triangles": 75
+  },
+  {
+    "path": "Meshes/SphereBreak2.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/SphereBreak2.cached",
+    "kind": "cache",
+    "vertices": 50,
+    "triangles": 63
+  },
+  {
+    "path": "Meshes/TarBubble.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/YellowLink.MESH",
+    "kind": "mesh",
+    "parts": 1
+  },
+  {
+    "path": "Meshes/YellowLink.cached",
+    "kind": "cache",
+    "vertices": 4,
+    "triangles": 2
+  },
+  {
+    "path": "Meshes/dawgshadow.cached",
+    "kind": "cache",
+    "vertices": 4,
+    "triangles": 2
+  },
+  {
+    "path": "Meshes/dawgshoe.cached",
+    "kind": "cache",
+    "vertices": 128,
+    "triangles": 196
+  },
+  {
+    "path": "Meshes/dawgshoe2.cached",
+    "kind": "cache",
+    "vertices": 131,
+    "triangles": 202
+  },
+  {
+    "path": "Meshes/fanblades.cached",
+    "kind": "cache",
+    "vertices": 86,
+    "triangles": 72
+  },
+  {
+    "path": "Meshes/fanbody.cached",
+    "kind": "cache",
+    "vertices": 455,
+    "triangles": 682
+  },
+  {
+    "path": "Meshes/hammyjudge.cached",
+    "kind": "cache",
+    "vertices": 449,
+    "triangles": 586
+  },
+  {
+    "path": "Meshes/magnifyingglass.cached",
+    "kind": "cache",
+    "vertices": 664,
+    "triangles": 530
+  },
+  {
+    "path": "Meshes/mousetrapshadow.cached",
+    "kind": "cache",
+    "vertices": 4,
+    "triangles": 2
+  },
+  {
+    "path": "Meshes/sawblade.cached",
+    "kind": "cache",
+    "vertices": 158,
+    "triangles": 78
+  },
+  {
+    "path": "Meshes/sawface.cached",
+    "kind": "cache",
+    "vertices": 4,
+    "triangles": 2
+  },
+  {
+    "path": "Meshes/sawface2.cached",
+    "kind": "cache",
+    "vertices": 4,
+    "triangles": 2
+  },
+  {
+    "path": "Meshes/skypillar.cached",
+    "kind": "cache",
+    "vertices": 190,
+    "triangles": 200
+  },
+  {
+    "path": "Meshes/tarbubble.cached",
+    "kind": "cache",
+    "vertices": 40,
+    "triangles": 71
+  }
+]

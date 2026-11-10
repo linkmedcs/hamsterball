@@ -1,0 +1,14 @@
+[Software\\Raptisoft\\Hamsterball] 1794127643
+#time=1dd6f5dc5acd1ce
+"ColorMode"=hex:01
+"KeyAction1"=dword:0000001c
+"KeyAction2"=dword:00000039
+"KeyDown"=dword:000000d0
+"KeyLeft"=dword:000000cb
+"KeyRight"=dword:000000cd
+"KeyUp"=dword:000000c8
+"Music Volume"=hex:cd,cc,4c,3f
+"SafeMode"=hex:00
+"Sound Volume"=hex:00,00,80,3f
+"Texture Quality"=hex:00,00,00,3f
+

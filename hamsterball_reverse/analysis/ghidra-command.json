@@ -1,0 +1,25 @@
+{
+  "command": [
+    "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/toolchain/ghidra_12.2_PUBLIC/support/analyzeHeadless",
+    "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/analysis/ghidra",
+    "Hamsterball_4_2",
+    "-process",
+    "hamsterball.exe",
+    "-noanalysis",
+    "-scriptPath",
+    "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/tools/ghidra_scripts",
+    "-postScript",
+    "ExportHamsterball.java",
+    "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/analysis/exports",
+    "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/analysis/seeds.tsv",
+    "-log",
+    "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/logs/ghidra-analysis.log",
+    "-scriptlog",
+    "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/logs/ghidra-script.log",
+    "-max-cpu",
+    "4"
+  ],
+  "java_home": "/opt/homebrew/opt/openjdk/libexec/openjdk.jdk/Contents/Home",
+  "java_tool_options": " -Duser.home=/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/toolchain/java-user",
+  "exe_sha256": "047d6613005513e1cafc607f83b1520973828e77babbdaa52846723060a94b58"
+}

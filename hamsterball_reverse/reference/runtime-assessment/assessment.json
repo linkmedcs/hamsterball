@@ -1,0 +1,48 @@
+{
+  "created_utc": "2026-11-08T09:04:45.384387+00:00",
+  "status": "partial_startup_only",
+  "original_reference_captured": false,
+  "wine_version": "wine-8.0.1 (WineskinCX 23.6.0)",
+  "prefix": "runtime/wine-prefix",
+  "game_copy": "runtime/game",
+  "initialization_exit_code": 0,
+  "game_process_observed_alive": true,
+  "windows_registry_branch_observed": "HKCU/Software/Raptisoft/Hamsterball",
+  "changed_working_game_files": [],
+  "evidence": [
+    {
+      "path": "reference/runtime-assessment/wine-boot-20261108T083201Z.log",
+      "sha256": "f94835092135b9b5a66e8b5c0de7ba5fa88c4f305c424d3cee9a2cebafdde0d9"
+    },
+    {
+      "path": "reference/runtime-assessment/wine-launch-20261108T084700Z.log",
+      "sha256": "ae009a8364008650d2462fc93876a2af6a8ecfde57898ba9ada386fdf678d96a"
+    },
+    {
+      "path": "reference/runtime-assessment/wine-launch-20261108T085038Z.log",
+      "sha256": "d87bf58f8e1be66b2c6ada43f706ce80c31a367d8a1e6c0849522872c0aed32e"
+    },
+    {
+      "path": "reference/runtime-assessment/hamsterball-only.wine-reg.txt",
+      "sha256": "36c4e39ea1020df7def7eb3f5c6df9bffbdbaa85d96f06ee2f9ba83366739f3a"
+    }
+  ],
+  "observations": [
+    "Original process started in experimental wow64 mode.",
+    "Graphics log reports MoltenVK initialization and display-mode changes returning -2.",
+    "Standalone Wine preloader could not be bound by the available app UI interface.",
+    "No menu/first-course picture, input response or audio was verified.",
+    "Dedicated Wine server stopped after inspection; final process exit code is not an organic crash diagnosis."
+  ],
+  "missing": [
+    "Stable visible first-course session",
+    "Input and video capture",
+    "Verified logical update timing",
+    "Observed initial physical/camera/random state",
+    "Repeated identical-input runs"
+  ],
+  "next_runtime_actions": [
+    "Resolve Wine window/display observation; try an isolated virtual desktop or windowed mode with logged settings.",
+    "If still unreliable, establish a native Windows baseline on a real machine or suitable VM."
+  ]
+}

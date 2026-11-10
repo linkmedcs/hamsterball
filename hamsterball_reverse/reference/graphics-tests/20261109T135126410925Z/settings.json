@@ -1,0 +1,28 @@
+{
+  "profile": "windowed",
+  "prefix": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/runtime/wine-prefix",
+  "runtime": {
+    "executable": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/toolchain/wineskin-runtime/Contents/SharedSupport/wine/bin/wine64",
+    "wineserver": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/toolchain/wineskin-runtime/Contents/SharedSupport/wine/bin/wineserver",
+    "frameworks": "/Users/ghx/reverse_engineering/hamsterball/hamsterball_reverse/toolchain/wineskin-runtime/Contents/Frameworks",
+    "source": "workspace"
+  },
+  "backups": [
+    {
+      "key": "HKEY_CURRENT_USER\\Software\\Raptisoft\\Hamsterball",
+      "existed": true,
+      "file": "game-before.reg"
+    },
+    {
+      "key": "HKEY_CURRENT_USER\\Software\\Wine\\AppDefaults\\hamsterball.exe\\Direct3D",
+      "existed": false
+    }
+  ],
+  "game_exe_sha256": "047d6613005513e1cafc607f83b1520973828e77babbdaa52846723060a94b58",
+  "changed_settings": [
+    "Fullscreen = binary 00",
+    "Screen Width = 1024",
+    "Screen Height = 768"
+  ],
+  "note": "Graphics configuration only; gameplay fidelity not verified"
+}

@@ -1,0 +1,46 @@
+address	label	evidence
+0x40cd10	candidate_Board_ctor	Static Board name/vptr evidence; ABI not verified
+0x41dab0	candidate_InternalBeginner_Cascade_ctor	Internal name Beginner, but constructor selects CASCADERACE and levelcascade; not Level1
+0x414240	candidate_WarmUp_Level1_ctor	Internal Warm-Up constructor selects BEGINNERRACE; Level1 loader at 0x414310
+0x414310	candidate_Level1_load	Passes levels\level1 to 0x46c8c0; static mapping, not runtime verified
+0x4627d0	probe_Motion_ctor	Original isolated probe executed; object in ESI, context in EAX
+0x4630e0	probe_Motion_reset	Original isolated constructor calls this; field semantics provisional
+0x4014b0	probe_SetDirectionScale	100 original isolated cases; object EAX and one stack scalar
+0x463200	probe_EllipsoidMove	Only empty-world cases executed; collision unverified
+0x40dce6	anchor_CameraLocus_reference	Instruction passes CAMERALOCUS to 0x4716b0
+0x413867	anchor_Goal_reference	N:GOAL string reference; event semantics unverified
+0x4142e0	candidate_Level1_vslot_00	Board (Warm-Up) vtable +0x0; role unverified; table end heuristic
+0x40dfa0	candidate_Level1_vslot_01	Board (Warm-Up) vtable +0x4; role unverified; table end heuristic
+0x40e890	candidate_Level1_vslot_02	Board (Warm-Up) vtable +0x8; role unverified; table end heuristic
+0x474e90	candidate_Level1_vslot_03	Board (Warm-Up) vtable +0xc; role unverified; table end heuristic
+0x474f70	candidate_Level1_vslot_04	Board (Warm-Up) vtable +0x10; role unverified; table end heuristic
+0x422110	candidate_Level1_vslot_05	Board (Warm-Up) vtable +0x14; role unverified; table end heuristic
+0x474ff0	candidate_Level1_vslot_06	Board (Warm-Up) vtable +0x18; role unverified; table end heuristic
+0x47ed30	candidate_Level1_vslot_07	Board (Warm-Up) vtable +0x1c; role unverified; table end heuristic
+0x40ded0	candidate_Level1_vslot_08	Board (Warm-Up) vtable +0x20; role unverified; table end heuristic
+0x45fa90	candidate_Level1_vslot_09	Board (Warm-Up) vtable +0x24; role unverified; table end heuristic
+0x4751e0	candidate_Level1_vslot_11	Board (Warm-Up) vtable +0x2c; role unverified; table end heuristic
+0x433440	candidate_Level1_vslot_14	Board (Warm-Up) vtable +0x38; role unverified; table end heuristic
+0x4750e0	candidate_Level1_vslot_15	Board (Warm-Up) vtable +0x3c; role unverified; table end heuristic
+0x40c1f0	candidate_Level1_vslot_16	Board (Warm-Up) vtable +0x40; role unverified; table end heuristic
+0x4751f0	candidate_Level1_vslot_17	Board (Warm-Up) vtable +0x44; role unverified; table end heuristic
+0x40fbc0	candidate_Level1_vslot_19	Board (Warm-Up) vtable +0x4c; role unverified; table end heuristic
+0x410160	candidate_Level1_vslot_20	Board (Warm-Up) vtable +0x50; role unverified; table end heuristic
+0x477000	candidate_Level1_vslot_21	Board (Warm-Up) vtable +0x54; role unverified; table end heuristic
+0x40eae0	candidate_Level1_vslot_22	Board (Warm-Up) vtable +0x58; role unverified; table end heuristic
+0x40f260	candidate_Level1_vslot_23	Board (Warm-Up) vtable +0x5c; role unverified; table end heuristic
+0x410350	candidate_Level1_vslot_24	Board (Warm-Up) vtable +0x60; role unverified; table end heuristic
+0x4106b0	candidate_Level1_vslot_25	Board (Warm-Up) vtable +0x64; role unverified; table end heuristic
+0x4105b0	candidate_Level1_vslot_26	Board (Warm-Up) vtable +0x68; role unverified; table end heuristic
+0x410c40	candidate_Level1_vslot_27	Board (Warm-Up) vtable +0x6c; role unverified; table end heuristic
+0x4115a0	candidate_Level1_vslot_28	Board (Warm-Up) vtable +0x70; role unverified; table end heuristic
+0x412e10	candidate_Level1_vslot_29	Board (Warm-Up) vtable +0x74; role unverified; table end heuristic
+0x40f7d0	candidate_Level1_vslot_31	Board (Warm-Up) vtable +0x7c; role unverified; table end heuristic
+0x411b10	candidate_Level1_vslot_32	Board (Warm-Up) vtable +0x80; role unverified; table end heuristic
+0x41dd30	candidate_Level1_vslot_33	Board (Warm-Up) vtable +0x84; role unverified; table end heuristic
+0x40f460	candidate_Level1_vslot_35	Board (Warm-Up) vtable +0x8c; role unverified; table end heuristic
+0x41db80	candidate_Cascade_vslot_00	Board (Beginner) vtable +0x0; role unverified; table end heuristic
+0x41dc10	candidate_Cascade_vslot_18	Board (Beginner) vtable +0x48; role unverified; table end heuristic
+0x41dec0	candidate_Cascade_vslot_19	Board (Beginner) vtable +0x4c; role unverified; table end heuristic
+0x41e110	candidate_Cascade_vslot_24	Board (Beginner) vtable +0x60; role unverified; table end heuristic
+0x41dd50	candidate_Cascade_vslot_29	Board (Beginner) vtable +0x74; role unverified; table end heuristic

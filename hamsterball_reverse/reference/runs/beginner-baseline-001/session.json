@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "run_name": "beginner-baseline-001",
+  "capture_status": "not_started",
+  "created_utc": "2026-11-08T09:02:47.210431+00:00",
+  "executable_sha256": "047d6613005513e1cafc607f83b1520973828e77babbdaa52846723060a94b58",
+  "baseline_lock_sha256": "3d43440d2c96ba8ed8f99f6e47c39a9c41dc4f854094627afc9a7b32882a7f9b",
+  "course": {
+    "resource": "Levels/Level1.MESHWORLD",
+    "race_key": "BEGINNERRACE",
+    "internal_class": "Board (Warm-Up)",
+    "mirror": false
+  },
+  "runtime": {
+    "kind": null,
+    "version": null,
+    "os": null,
+    "cpu": null,
+    "gpu": null,
+    "renderer": null,
+    "resolution": null,
+    "fullscreen": null,
+    "refresh_hz": null
+  },
+  "configuration": {
+    "difficulty": null,
+    "control_device": null,
+    "sensitivity": null,
+    "save_snapshot_sha256": null,
+    "registry_snapshot_sha256": null
+  },
+  "initial_state": {
+    "checkpoint": null,
+    "position": null,
+    "velocity": null,
+    "camera": null,
+    "rng_state": null,
+    "logic_step": null,
+    "logical_time": null
+  },
+  "timing": {
+    "logic_dt": null,
+    "units": null,
+    "input_time_domain": null,
+    "video_fps": null
+  },
+  "evidence": {
+    "video": null,
+    "audio": null,
+    "inputs": null,
+    "state_trace": null,
+    "event_trace": null
+  },
+  "repeats": [],
+  "unavailable_fields": [],
+  "differences": [],
+  "notes": [
+    "Template only. No gameplay recording or deterministic replay has occurred.",
+    "OS input timestamps alone do not prove when the game consumed inputs."
+  ]
+}

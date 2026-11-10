@@ -1,0 +1,46 @@
+requested_va	label	evidence	resolved_function	boundary_status	decompile_status
+0040cd10	candidate_Board_ctor	Static Board name/vptr evidence; ABI not verified	0040cd10	matches_analyzer_entry	completed_unreviewed
+0041dab0	candidate_InternalBeginner_Cascade_ctor	Internal name Beginner, but constructor selects CASCADERACE and levelcascade; not Level1	0041dab0	matches_analyzer_entry	completed_unreviewed
+00414240	candidate_WarmUp_Level1_ctor	Internal Warm-Up constructor selects BEGINNERRACE; Level1 loader at 0x414310	00414240	matches_analyzer_entry	completed_unreviewed
+00414310	candidate_Level1_load	Passes levels\level1 to 0x46c8c0; static mapping, not runtime verified	00414310	matches_analyzer_entry	completed_unreviewed
+004627d0	probe_Motion_ctor	Original isolated probe executed; object in ESI, context in EAX	004627d0	matches_analyzer_entry	completed_unreviewed
+004630e0	probe_Motion_reset	Original isolated constructor calls this; field semantics provisional	004630e0	matches_analyzer_entry	completed_unreviewed
+004014b0	probe_SetDirectionScale	100 original isolated cases; object EAX and one stack scalar	004014b0	matches_analyzer_entry	completed_unreviewed
+00463200	probe_EllipsoidMove	Only empty-world cases executed; collision unverified	00463200	matches_analyzer_entry	completed_unreviewed
+0040dce6	anchor_CameraLocus_reference	Instruction passes CAMERALOCUS to 0x4716b0	0040dba0	inside_analyzer_function	completed_unreviewed
+00413867	anchor_Goal_reference	N:GOAL string reference; event semantics unverified	00412e10	inside_analyzer_function	completed_unreviewed
+004142e0	candidate_Level1_vslot_00	Board (Warm-Up) vtable +0x0; role unverified; table end heuristic	004142e0	matches_analyzer_entry	completed_unreviewed
+0040dfa0	candidate_Level1_vslot_01	Board (Warm-Up) vtable +0x4; role unverified; table end heuristic	0040dfa0	matches_analyzer_entry	completed_unreviewed
+0040e890	candidate_Level1_vslot_02	Board (Warm-Up) vtable +0x8; role unverified; table end heuristic	0040e890	matches_analyzer_entry	completed_unreviewed
+00474e90	candidate_Level1_vslot_03	Board (Warm-Up) vtable +0xc; role unverified; table end heuristic	00474e90	matches_analyzer_entry	completed_unreviewed
+00474f70	candidate_Level1_vslot_04	Board (Warm-Up) vtable +0x10; role unverified; table end heuristic	00474f70	matches_analyzer_entry	completed_unreviewed
+00422110	candidate_Level1_vslot_05	Board (Warm-Up) vtable +0x14; role unverified; table end heuristic	00422110	matches_analyzer_entry	completed_unreviewed
+00474ff0	candidate_Level1_vslot_06	Board (Warm-Up) vtable +0x18; role unverified; table end heuristic	00474ff0	matches_analyzer_entry	completed_unreviewed
+0047ed30	candidate_Level1_vslot_07	Board (Warm-Up) vtable +0x1c; role unverified; table end heuristic	0047ed30	matches_analyzer_entry	completed_unreviewed
+0040ded0	candidate_Level1_vslot_08	Board (Warm-Up) vtable +0x20; role unverified; table end heuristic	0040ded0	matches_analyzer_entry	completed_unreviewed
+0045fa90	candidate_Level1_vslot_09	Board (Warm-Up) vtable +0x24; role unverified; table end heuristic	0045fa90	matches_analyzer_entry	completed_unreviewed
+004751e0	candidate_Level1_vslot_11	Board (Warm-Up) vtable +0x2c; role unverified; table end heuristic	004751e0	matches_analyzer_entry	completed_unreviewed
+00433440	candidate_Level1_vslot_14	Board (Warm-Up) vtable +0x38; role unverified; table end heuristic	00433440	matches_analyzer_entry	completed_unreviewed
+004750e0	candidate_Level1_vslot_15	Board (Warm-Up) vtable +0x3c; role unverified; table end heuristic	004750e0	matches_analyzer_entry	completed_unreviewed
+0040c1f0	candidate_Level1_vslot_16	Board (Warm-Up) vtable +0x40; role unverified; table end heuristic	0040c1f0	matches_analyzer_entry	completed_unreviewed
+004751f0	candidate_Level1_vslot_17	Board (Warm-Up) vtable +0x44; role unverified; table end heuristic	004751f0	matches_analyzer_entry	completed_unreviewed
+0040fbc0	candidate_Level1_vslot_19	Board (Warm-Up) vtable +0x4c; role unverified; table end heuristic	0040fbc0	matches_analyzer_entry	completed_unreviewed
+00410160	candidate_Level1_vslot_20	Board (Warm-Up) vtable +0x50; role unverified; table end heuristic	00410160	matches_analyzer_entry	completed_unreviewed
+00477000	candidate_Level1_vslot_21	Board (Warm-Up) vtable +0x54; role unverified; table end heuristic	00477000	matches_analyzer_entry	completed_unreviewed
+0040eae0	candidate_Level1_vslot_22	Board (Warm-Up) vtable +0x58; role unverified; table end heuristic	0040eae0	matches_analyzer_entry	completed_unreviewed
+0040f260	candidate_Level1_vslot_23	Board (Warm-Up) vtable +0x5c; role unverified; table end heuristic	0040f260	matches_analyzer_entry	completed_unreviewed
+00410350	candidate_Level1_vslot_24	Board (Warm-Up) vtable +0x60; role unverified; table end heuristic	00410350	matches_analyzer_entry	completed_unreviewed
+004106b0	candidate_Level1_vslot_25	Board (Warm-Up) vtable +0x64; role unverified; table end heuristic	004106b0	matches_analyzer_entry	completed_unreviewed
+004105b0	candidate_Level1_vslot_26	Board (Warm-Up) vtable +0x68; role unverified; table end heuristic	004105b0	matches_analyzer_entry	completed_unreviewed
+00410c40	candidate_Level1_vslot_27	Board (Warm-Up) vtable +0x6c; role unverified; table end heuristic	00410c40	matches_analyzer_entry	completed_unreviewed
+004115a0	candidate_Level1_vslot_28	Board (Warm-Up) vtable +0x70; role unverified; table end heuristic	004115a0	matches_analyzer_entry	completed_unreviewed
+00412e10	candidate_Level1_vslot_29	Board (Warm-Up) vtable +0x74; role unverified; table end heuristic	00412e10	matches_analyzer_entry	already_exported
+0040f7d0	candidate_Level1_vslot_31	Board (Warm-Up) vtable +0x7c; role unverified; table end heuristic	0040f7d0	matches_analyzer_entry	completed_unreviewed
+00411b10	candidate_Level1_vslot_32	Board (Warm-Up) vtable +0x80; role unverified; table end heuristic	00411b10	matches_analyzer_entry	completed_unreviewed
+0041dd30	candidate_Level1_vslot_33	Board (Warm-Up) vtable +0x84; role unverified; table end heuristic	0041dd30	matches_analyzer_entry	completed_unreviewed
+0040f460	candidate_Level1_vslot_35	Board (Warm-Up) vtable +0x8c; role unverified; table end heuristic	0040f460	matches_analyzer_entry	completed_unreviewed
+0041db80	candidate_Cascade_vslot_00	Board (Beginner) vtable +0x0; role unverified; table end heuristic	0041db80	matches_analyzer_entry	completed_unreviewed
+0041dc10	candidate_Cascade_vslot_18	Board (Beginner) vtable +0x48; role unverified; table end heuristic	0041dc10	matches_analyzer_entry	completed_unreviewed
+0041dec0	candidate_Cascade_vslot_19	Board (Beginner) vtable +0x4c; role unverified; table end heuristic	0041dec0	matches_analyzer_entry	completed_unreviewed
+0041e110	candidate_Cascade_vslot_24	Board (Beginner) vtable +0x60; role unverified; table end heuristic	0041e110	matches_analyzer_entry	completed_unreviewed
+0041dd50	candidate_Cascade_vslot_29	Board (Beginner) vtable +0x74; role unverified; table end heuristic	0041dd50	matches_analyzer_entry	completed_unreviewed

@@ -1,0 +1,47 @@
+{
+  "log": "hamsterball_reverse/logs/wine-launch-20261109T133548Z.log",
+  "log_bytes": 10697279786,
+  "sha256": "4f51803c74140d7d0c7b6f926cd4d732a733795a1e4a6ebd5efef5ca5a68ba1f",
+  "counts": {
+    "d3d8_CreateDevice": 2,
+    "Created device": 1,
+    "DrawIndexedPrimitive": 5286972,
+    "d3d8_device_Present": 64885,
+    "NtUserChangeDisplaySettings": 0,
+    "D3DERR_NOTAVAILABLE": 0,
+    "err:d3d": 0,
+    "wined3d_device_create": 1
+  },
+  "examples": {
+    "d3d8_CreateDevice": [
+      "00c4:trace:d3d8:d3d8_CreateDevice iface 00BB9180, adapter 0, device_type 0x1, focus_window 0002005C, flags 0x40, parameters 024051FC, device 024051BC.",
+      "00c4:trace:d3d8:d3d8_CreateDevice Created device 00BDE410."
+    ],
+    "Created device": [
+      "00c4:trace:d3d8:d3d8_CreateDevice Created device 00BDE410."
+    ],
+    "DrawIndexedPrimitive": [
+      "00c4:trace:d3d8:d3d8_device_DrawIndexedPrimitive iface 00BDE410, primitive_type 0x4, min_vertex_idx 0, vertex_count 32, start_idx 0, primitive_count 20.",
+      "00c4:trace:d3d8:d3d8_device_DrawIndexedPrimitive iface 00BDE410, primitive_type 0x4, min_vertex_idx 36, vertex_count 31, start_idx 66, primitive_count 15.",
+      "00c4:trace:d3d8:d3d8_device_DrawIndexedPrimitive iface 00BDE410, primitive_type 0x4, min_vertex_idx 74, vertex_count 78, start_idx 120, primitive_count 53.",
+      "00c4:trace:d3d8:d3d8_device_DrawIndexedPrimitive iface 00BDE410, primitive_type 0x4, min_vertex_idx 152, vertex_count 22, start_idx 279, primitive_count 14."
+    ],
+    "d3d8_device_Present": [
+      "00c4:trace:d3d8:d3d8_device_Present iface 00BDE410, src_rect (null), dst_rect (null), dst_window_override 00000000, dirty_region 00000000.",
+      "00c4:trace:d3d8:d3d8_device_Present iface 00BDE410, src_rect (null), dst_rect (null), dst_window_override 00000000, dirty_region 00000000.",
+      "00c4:trace:d3d8:d3d8_device_Present iface 00BDE410, src_rect (null), dst_rect (null), dst_window_override 00000000, dirty_region 00000000.",
+      "00c4:trace:d3d8:d3d8_device_Present iface 00BDE410, src_rect (null), dst_rect (null), dst_window_override 00000000, dirty_region 00000000."
+    ],
+    "NtUserChangeDisplaySettings": [],
+    "D3DERR_NOTAVAILABLE": [],
+    "err:d3d": [],
+    "wined3d_device_create": [
+      "00c4:trace:d3d8:device_parent_wined3d_device_created device_parent 00BDE414, device 00BF6270"
+    ]
+  },
+  "conclusion": "Windowed launch reaches repeated D3D8 draw/present calls; visible image/input/audio unverified.",
+  "original_exe_patched": false,
+  "compressed_log": "hamsterball_reverse/logs/wine-launch-20261109T133548Z.log.gz",
+  "compressed_bytes": 396185837,
+  "compressed_sha256": "ebf29771ff2a84aab5012fbcb2ec94ac6c9eb339a6c721f1500dff66580d20a6"
+}
